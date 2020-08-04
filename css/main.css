@@ -1,0 +1,70 @@
+/***** VISION BOARD *****/
+
+body{
+  font-family: 'Montserrat', sans-serif,'Permanent Marker';
+  background-color: #E8E8E8;
+  }
+
+#vision-board{
+    width: 1200px;
+    height: 850px;
+    clear:both;
+    background: url('../img/background.png');
+    font-family: 'Montserrat',sans-serif;
+    text-transform: uppercase;
+  }
+
+.block{
+    float:left;
+    width: 400px;
+    box-sizing: border-box;
+  }
+.large-block{
+  height: 430px;
+}
+.small-block{
+  height: 210px;
+}
+
+#grow{
+  text-align: left;
+  background-color: #FFFFFF;
+  padding: 20px;
+}
+#flower{
+  display: block;
+  margin: auto;
+}
+#code{
+  text-align: center;
+  background-color: #FFFFFF;
+}
+#eye{
+  display:block;
+  margin: auto;
+  text-align: center;
+  background-color: #3B3B3B;
+  color: white;
+}
+.marker{
+    font-family: 'Permanent Marker';
+  }
+
+#plane{
+  text-align: right;
+}
+#list{
+  text-align: center;
+  background-color: #FFFFFF;
+}
+#doggo{
+  display: block;
+  margin: auto;
+}
+#challenge{
+  text-align: right;
+  background-color: #FFFFFF;
+}
+.highlight{
+  background-color: #FFF44F;
+}
